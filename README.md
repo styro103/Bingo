@@ -49,9 +49,11 @@ B I N G O
 20 39 51 73* 94
 2 25* 60 71 86
 11 22 47 79 82
+
 The numbers called out during the game were...
 43,35,13,52,34,16,62,29,04,78,30,73,97,25,89,23,96,03,53,14,
 55,61,76,88,80,09,37,81,99,18,08,65,95,31,90,05,75,40,44.
+
 This card was a WINNER in Game 1 because it needed
 only 39 numbers to end the game.
 
