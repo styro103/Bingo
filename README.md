@@ -44,11 +44,15 @@ VI.) The results of the game should include the game number, final card (numbers
 -Game 1-
 ========
 B I N G O
-
+--- --- --- --- ---
 16* 37* 44* 61* 90*
+
 5* 40* 55* 63 100
+
 20 39 51 73* 94
+
 2 25* 60 71 86
+
 11 22 47 79 82
 
 The numbers called out during the game were...
