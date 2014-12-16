@@ -46,6 +46,7 @@ The numbers called out during the game were...
 55,61,76,88,80,09,37,81,99,18,08,65,95,31,90,05,75,40,44.
 This card was a WINNER in Game 1 because it needed
 only 39 numbers to end the game.
+
 ==============================================================
 Your program is to find the disposition of five games. There will be 500 numbers in the data file. If there are remaining numbers after a game concludes, they should be discarded before the next game commences. In the sample, numbers 40 to 100 would be discarded before game 2 is played.
 All 500 numbers will be separated by commas. Game outputs should be separated by a horizontal line of =’s, as shown above.
