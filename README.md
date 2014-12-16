@@ -23,6 +23,7 @@ II.) The computer generates a random list of 100 distinct
 numbers, to be used as the numbers called out during game play.
 
 Sample Input for the first game:
+
 43,35,13,52,34,16,62,29,04,78,30,73,97,25,89,23,96,03,53,14,
 55,61,76,88,80,09,37,81,99,18,08,65,95,31,90,05,75,40,44,22,
 65,100,95,38,28,39,32,54,60,89,30,33,51,70,16,46,83,21,58,27,
@@ -43,7 +44,7 @@ VI.) The results of the game should include the game number, final card (numbers
 -Game 1-
 ========
 B I N G O
---- --- --- --- ---
+
 16* 37* 44* 61* 90*
 5* 40* 55* 63 100
 20 39 51 73* 94
